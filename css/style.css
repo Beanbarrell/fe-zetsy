@@ -17,4 +17,29 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+h1, h2{
+	color: #929F9A;
+}
+h1{
+	font-size: 60px;
+}
+
+h2{
+	font-size: 30px;
+}
+#necklace{
+	display: block;
+	border: 5px solid #929F9A;
+}
+
+#footer{
+	font-size: 12px;
+	text-align: right;
+}
+
+a img{
+	border: 5px solid #c4c5c4;
+}
+a img:hover{
+	border: 5px solid #929F9A;
+}
